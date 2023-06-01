@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20100769610",
+    "firebase_url": "https://teachmewell-esof-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "teachmewell-esof",
+    "storage_bucket": "teachmewell-esof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20100769610:android:4fd437f64b982fa44a83b3",
+        "android_client_info": {
+          "package_name": "com.esof.teachmewell.teachmewell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20100769610-htdkgga5j1l3i3kfp7qlh5sihb1maq11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCockMIF8tf9Z7_wz3xC7fG8xQEgD8HqIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20100769610-htdkgga5j1l3i3kfp7qlh5sihb1maq11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20100769610-l6ipok81b6sq8cha6pk4g9gi6s5114fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.esof.teachmewell.teachmewell"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

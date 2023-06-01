@@ -1,0 +1,15 @@
+targets:
+  $default:
+    sources:
+      - lib/**
+      - test/**
+      - bin/**
+      - media/**
+      - assets/**
+      - web/**
+      - android/**
+      - ios/**
+      - macos/**
+      - windows/**
+      - linux/**
+      - example/**
